@@ -49,7 +49,6 @@
       background-color: #f2f2f2;
     }
   </style>
-</head>
 <body>
 
   <h2 style="text-align:center;">Jadwal Mata Kuliah Teknologi Industri Pertanian Semester 6</h2>
