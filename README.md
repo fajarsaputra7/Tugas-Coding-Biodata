@@ -1,6 +1,4 @@
 # Tugas-Coding-Biodata
-hello world
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -116,9 +114,3 @@ hello world
 
 </body>
 
-    </div>
-
-
-
-</body>
-</html>			
